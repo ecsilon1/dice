@@ -47,7 +47,7 @@ else if (secondRandomNumber===6){
 
 
 if(randomNumber>secondRandomNumber){
-  document.querySelector("h1").innerHTML="Player 1 WINS";
+  document.querySelector("h1").innerHTML="You WIN";
 }
 if(randomNumber<secondRandomNumber){
   document.querySelector("h1").innerHTML="Player 2 WINS";
