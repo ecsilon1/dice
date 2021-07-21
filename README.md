@@ -1,1 +1,1 @@
-A dice game website using jquery and javascript.
+A dice game website using javascript.
